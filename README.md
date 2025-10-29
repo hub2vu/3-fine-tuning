@@ -32,6 +32,16 @@
 ├── terminal.ipynb
 ├── lora.ipynb
 ├── README.md
+├── hub2vu
+  ├──1download.py
+  ├──2setting.py
+  ├──3data.py
+  ├──4util.py
+  ├──5fine-Tuning.py
+  ├──6Lora.py
+  ├──7compare.py
+  ├──main.py
+  ├──train_compare.ipynb
 ```
 
 ### 커밋 컨벤션
