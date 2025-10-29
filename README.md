@@ -6,10 +6,10 @@
 
 |항목|일반 파인튜닝|LoRA 파인튜닝|
 |---:|---:|---:|
-|Validation Accuracy|--|--|
-|Training Time|--|--|
-|GPU 메모리 사용량|--|--|
-|모델 저장 용량|--|--|
+|Validation Accuracy|-0.87-|-0.85-|
+|Training Time|-515-|-446-|
+|GPU 메모리 사용량|-2.40 GB-|-4.23 GB-|
+|모델 저장 용량|-4.13 GB-|-78.59 MB-|
 |etc|
 
 ### 예시 
